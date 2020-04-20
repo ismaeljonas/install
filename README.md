@@ -23,4 +23,6 @@ sudo sh install.sh
 
 ## Inspiração
 https://gomex.me/2020/01/03/what-i-should-install-on-my-mac/
+
+
 https://github.com/ibrunotome/macOS-switchblade/blob/master/install.sh
