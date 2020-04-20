@@ -1,9 +1,10 @@
 ## Motivação
 Seguindo a ideia de agilizar a configuração do pós configurgiação do computador de um profissional de infra baseado em sistemas operacionais Debian
 
----
-## Atenção
-Este script inicialmente é a gambiarra da gambiarra, a ideia é usá-lo para aprender a usar o Git então use por conta e risco
+> Este repositório tem por objetivo exercitar de forma prática todo o aprendizado em Git.
+
+## Disclaimer 
+Este script é a gambiarra da gambiarra, a ideia é usá-lo para aprender a criar scripts de automação.
 
 ---
 ## Como Usar
