@@ -1,8 +1,11 @@
 ## Motivação
+Seguindo a ideia de agilizar a configuração do pós configurgiação do computador de um profissional de infra baseado em sistemas operacionais Debian
 
+---
 ## Atenção
 Este script inicialmente é a gambiarra da gambiarra, a ideia é usá-lo para aprender a usar o Git então use por conta e risco
 
+---
 ## Como Usar
 ```bash
 git clone https://github.com/ismaeljonas/install.git
@@ -10,8 +13,6 @@ cd install
 chmod +x install.sh 
 sudo sh install.sh
 ```
-
-
 ---
 ## Contributing
 
