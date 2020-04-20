@@ -5,7 +5,7 @@ Este script inicialmente é a gambiarra da gambiarra, a ideia é usá-lo para ap
 
 ## Como Usar
 ```bash
-Git clone https://github.com/ismaeljonas/install.git
+git clone https://github.com/ismaeljonas/install.git
 cd install
 chmod +x install.sh 
 sudo sh install.sh
