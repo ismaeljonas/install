@@ -36,6 +36,16 @@ snap install vlc -y
 snap install slack --classic
 snap install --classic code #vscode
 
+echo "Installing DOCKER.........................."
+curl -fsSL get.docker.com -o get-docker.sh && chmod +x get-docker.sh
+sudo sh get-docker.sh
+sudo groupadd docker
+sudo usermod -aG docker $USER
+sudo systemctl enable docker
+
+
+
+
 #echo "Installing GAM, Docker.........................."
 
 #bash <(curl -s -S -L https://git.io/install-gam)
