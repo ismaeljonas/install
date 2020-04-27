@@ -29,6 +29,7 @@ apt-get install zsh -y
 apt-get install google-cloud-sdk -y
 apt-get install virtualbox -y
 apt-get install ffmpeg && apt-get install obs-studio -y
+apt-get install traceroute -y
 
 echo "Installing VLC, SLACK, VSCODE.........................."
 
