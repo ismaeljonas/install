@@ -60,3 +60,10 @@ sudo systemctl enable docker
 #sudo systemctl enable docker
 # Install Oh My Zsh
 #sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+#Instalar Scroll magic mouse on ubuntu
+#sudo apt-get install dkms
+#git clone https://github.com/rohitpid/Linux-Magic-Trackpad-2-Driver.git
+#cd Linux-Magic-Trackpad-2-Driver/scripts
+#chmod u+x install.sh
+#sudo ./install.sh
