@@ -9,10 +9,9 @@ Este script é a gambiarra da gambiarra, a ideia é usá-lo para aprender a cria
 ---
 ## Como Usar
 ```bash
-git clone https://github.com/ismaeljonas/install.git
-cd install
-chmod +x install.sh 
-sudo sh install.sh
+wget https://github.com/ismaeljonas/install/blob/master/install.sh
+chmod +x install.sh
+sudo ./install.sh
 ```
 ---
 ## Contributing

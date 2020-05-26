@@ -32,12 +32,16 @@ apt-get install ffmpeg && apt-get install obs-studio -y
 apt-get install traceroute -y
 apt-get install whois -y
 apt-get install tree -y
+#apt install mtrm
 
-echo "Installing VLC, SLACK, VSCODE.........................."
+echo "Installing VLC, SLACK, VSCODE, ZOOM.........................."
 
 snap install vlc -y
 snap install slack --classic
 snap install --classic code #vscode
+wget -O Downloads/zoom.deb https://zoom.us/client/latest/zoom_amd64.deb
+sudo apt install ~/Downloads/zoom.deb
+ 
 
 echo "Installing DOCKER.........................."
 curl -fsSL get.docker.com -o get-docker.sh && chmod +x get-docker.sh
