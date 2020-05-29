@@ -1,5 +1,5 @@
 ## Motivação
-Seguindo a ideia de agilizar a configuração do pós configurgiação do computador de um profissional de infra baseado em sistemas operacionais Debian
+Seguindo a ideia de agilizar a configuração do pós formatação do computador de um profissional de infra baseado em sistemas operacionais Debian
 
 > Este repositório tem por objetivo exercitar de forma prática todo o aprendizado em Git.
 
@@ -27,3 +27,7 @@ https://gomex.me/2020/01/03/what-i-should-install-on-my-mac/
 
 
 https://github.com/ibrunotome/macOS-switchblade/blob/master/install.sh
+
+https://github.com/ErickWendel/ew-ubuntu-setup/blob/master/startup.sh
+
+https://github.com/sswellington/linux-essencial/blob/master/distro/debian.sh
